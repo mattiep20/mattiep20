@@ -1,9 +1,327 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" version="26.2.12">
   <diagram name="Page-1" id="s4cfBC86dm7e9KFDLGx1">
-    <mxGraphModel>
+    <mxGraphModel dx="8020" dy="3530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cKa9MUf4AjgzCtNwxK9b-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="85" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-1" value="START" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="10" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cKa9MUf4AjgzCtNwxK9b-19" target="cKa9MUf4AjgzCtNwxK9b-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-19" value="Welcome Message:&lt;div&gt;&quot;welcome + rules&quot;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cKa9MUf4AjgzCtNwxK9b-20" target="cKa9MUf4AjgzCtNwxK9b-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-20" value="Start score at 0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cKa9MUf4AjgzCtNwxK9b-22" target="cKa9MUf4AjgzCtNwxK9b-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-22" value="Establish the category of questions:&lt;div&gt;&quot;Tech&quot;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cKa9MUf4AjgzCtNwxK9b-24" target="cKa9MUf4AjgzCtNwxK9b-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-24" value="For 100 points,&lt;div&gt;This device allows you to move the cursor around a computer screen&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="360" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cKa9MUf4AjgzCtNwxK9b-26" target="cKa9MUf4AjgzCtNwxK9b-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-26" value="Input:&lt;div&gt;&quot;What is a mouse?&quot;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="55" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cKa9MUf4AjgzCtNwxK9b-29" target="cKa9MUf4AjgzCtNwxK9b-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cKa9MUf4AjgzCtNwxK9b-29" target="cKa9MUf4AjgzCtNwxK9b-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-29" value="is that the correct answer?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="530" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cKa9MUf4AjgzCtNwxK9b-32" target="cKa9MUf4AjgzCtNwxK9b-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-32" value="That is incorrect, next question" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-34" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry y="538" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-35" value="Correct, 100 points added. Next question" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cKa9MUf4AjgzCtNwxK9b-37" target="cKa9MUf4AjgzCtNwxK9b-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-37" value="For 200 points,&lt;div&gt;This is the portable computer you can move around.&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-43" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cKa9MUf4AjgzCtNwxK9b-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="690" as="sourcePoint" />
+            <mxPoint x="110" y="730" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-44" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="175" y="538" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cKa9MUf4AjgzCtNwxK9b-45" target="cKa9MUf4AjgzCtNwxK9b-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-45" value="input:&amp;nbsp;&lt;div&gt;&quot;What is a laptop?&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cKa9MUf4AjgzCtNwxK9b-47" target="cKa9MUf4AjgzCtNwxK9b-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cKa9MUf4AjgzCtNwxK9b-47" target="cKa9MUf4AjgzCtNwxK9b-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cKa9MUf4AjgzCtNwxK9b-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-10" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-47" value="is that the correct answer?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="950" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cKa9MUf4AjgzCtNwxK9b-50" target="cKa9MUf4AjgzCtNwxK9b-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-50" value="That is incorrect. Next question." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-52" value="Correct! 200 points added. Next question" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-56" value="no" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="960" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-57" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="960" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-62" value="The correct answer is&lt;div&gt;&quot;What is a mouse&quot;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-63" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cKa9MUf4AjgzCtNwxK9b-32" target="cKa9MUf4AjgzCtNwxK9b-62">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="850" as="sourcePoint" />
+            <mxPoint x="250" y="800" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-130" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-64" value="For 300 points,&amp;nbsp;&lt;div&gt;The acronym &quot;CPU&quot; stands for:&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-65" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.45;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cKa9MUf4AjgzCtNwxK9b-50" target="cKa9MUf4AjgzCtNwxK9b-64">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="1080" as="sourcePoint" />
+            <mxPoint x="250" y="1030" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-26" y="1190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-66" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cKa9MUf4AjgzCtNwxK9b-52" target="cKa9MUf4AjgzCtNwxK9b-64">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="1080" as="sourcePoint" />
+            <mxPoint x="190" y="1170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="1190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cKa9MUf4AjgzCtNwxK9b-67" target="cKa9MUf4AjgzCtNwxK9b-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-67" value="input:&lt;div&gt;&quot;What is a Central Processing Unit?&quot;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-68" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cKa9MUf4AjgzCtNwxK9b-64" target="cKa9MUf4AjgzCtNwxK9b-67">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="1120" as="sourcePoint" />
+            <mxPoint x="250" y="1070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cKa9MUf4AjgzCtNwxK9b-69" target="cKa9MUf4AjgzCtNwxK9b-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cKa9MUf4AjgzCtNwxK9b-69" target="cKa9MUf4AjgzCtNwxK9b-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-69" value="Is that the correct answer?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1350" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-71" value="Correct! 300 points added to your score. Next question." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cKa9MUf4AjgzCtNwxK9b-73" target="cKa9MUf4AjgzCtNwxK9b-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-73" value="That is incorrect. Next question" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="1460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-75" value="The correct answer is&lt;div&gt;&quot;What is a laptop&quot;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="1130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-77" value="The correct answer is&lt;div&gt;&quot;What is a central Processing Unit?&quot;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="1530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-79" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-5" y="1360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-80" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-81" value="For 400 points:&lt;div&gt;This programming language name is inspired by a snake&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="55" y="1560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-82" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cKa9MUf4AjgzCtNwxK9b-73" target="cKa9MUf4AjgzCtNwxK9b-81">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="1560" as="sourcePoint" />
+            <mxPoint x="190" y="1510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-40" y="1590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-83" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cKa9MUf4AjgzCtNwxK9b-71" target="cKa9MUf4AjgzCtNwxK9b-81">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="1560" as="sourcePoint" />
+            <mxPoint x="190" y="1510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="270" y="1590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cKa9MUf4AjgzCtNwxK9b-84" target="cKa9MUf4AjgzCtNwxK9b-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-84" value="Input:&lt;div&gt;&quot;What is python?&quot;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="55" y="1670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-85" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cKa9MUf4AjgzCtNwxK9b-81" target="cKa9MUf4AjgzCtNwxK9b-84">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="1610" as="sourcePoint" />
+            <mxPoint x="190" y="1560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cKa9MUf4AjgzCtNwxK9b-90" target="cKa9MUf4AjgzCtNwxK9b-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cKa9MUf4AjgzCtNwxK9b-86" target="cKa9MUf4AjgzCtNwxK9b-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-86" value="Is that the correct answer?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="1790" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-88" value="That is correct! 400 points added to your score" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cKa9MUf4AjgzCtNwxK9b-86" target="cKa9MUf4AjgzCtNwxK9b-90">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="155" y="1830" as="sourcePoint" />
+            <mxPoint x="270" y="1890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-90" value="yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="235" y="1815" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cKa9MUf4AjgzCtNwxK9b-92" target="cKa9MUf4AjgzCtNwxK9b-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cKa9MUf4AjgzCtNwxK9b-92" target="cKa9MUf4AjgzCtNwxK9b-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-92" value="Incorrect, next question" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="1890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-94" value="no" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="1800" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-95" value="the correct answer is&amp;nbsp;&lt;div&gt;&quot;What is python&quot;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="1890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cKa9MUf4AjgzCtNwxK9b-97" target="cKa9MUf4AjgzCtNwxK9b-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-97" value="for the final question, worth 500 points,&amp;nbsp;&lt;div&gt;In networking, this is the primary protocol used for web traffic:&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="2020" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-100" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cKa9MUf4AjgzCtNwxK9b-88">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="2020" as="sourcePoint" />
+            <mxPoint x="100" y="1920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cKa9MUf4AjgzCtNwxK9b-101" target="cKa9MUf4AjgzCtNwxK9b-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-101" value="input:&lt;div&gt;&quot;What is HTTP?&quot;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="2140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cKa9MUf4AjgzCtNwxK9b-103" target="cKa9MUf4AjgzCtNwxK9b-107">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="2360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cKa9MUf4AjgzCtNwxK9b-103" target="cKa9MUf4AjgzCtNwxK9b-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-103" value="is this answer correct?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="65" y="2250" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-107" value="Correct!!!!!!!" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="2350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-108" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="175" y="2260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cKa9MUf4AjgzCtNwxK9b-109" target="cKa9MUf4AjgzCtNwxK9b-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-109" value="INCORRECT" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="2340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-111" value="no" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-5" y="2250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-112" value="the correct answer should be &quot;What is HTTP?&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="2340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-114" value="end" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="2440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-115" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cKa9MUf4AjgzCtNwxK9b-107" target="cKa9MUf4AjgzCtNwxK9b-114">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="2360" as="sourcePoint" />
+            <mxPoint x="140" y="2310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cKa9MUf4AjgzCtNwxK9b-116" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cKa9MUf4AjgzCtNwxK9b-109" target="cKa9MUf4AjgzCtNwxK9b-114">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="2360" as="sourcePoint" />
+            <mxPoint x="140" y="2310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
